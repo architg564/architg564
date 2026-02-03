@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Archit 👋
 
-<!--
-**architg564/architg564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Frontend Engineer** based in Gurugram, specializing in building high-performance financial dashboards and modernizing enterprise-scale applications.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** [FinDash](https://github.com/architg564/findash) - A high-frequency market analytics dashboard using React 18, Zustand, and WebSockets.
+- 🏢 **Experience:** Leading frontend architecture at **Siemens Energy**; previously modernized legacy finance apps at **Cognizant**.
+- ⚡ **Core Stack:** React, TypeScript, Tailwind CSS, Vite, Angular.
+- 🎯 **Focus:** Micro-frontends, Data Virtualization (TanStack), and Real-time State Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
