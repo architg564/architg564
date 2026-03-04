@@ -2,7 +2,7 @@
 
 I am a **Senior Frontend Engineer** based in Gurugram, specializing in building high-performance financial dashboards and modernizing enterprise-scale applications.
 
-- 🔭 **I’m currently working on:** [FinDash]([https://github.com/architg564/findash](https://github.com/Enterprise-Data-Visualisation)) - A high-frequency market analytics dashboard using React 18, Zustand, and WebSockets.
+- 🔭 **I’m currently working on:** [FinDash]([https://github.com/architg564/findash](https://github.com/Enterprise-Data-Visualisation])) - A high-frequency market analytics dashboard using React 18, Zustand, and WebSockets.
 - 🏢 **Experience:** Leading frontend architecture at **Siemens Energy**; previously modernized legacy finance apps at **Cognizant**.
 - ⚡ **Core Stack:** React, TypeScript, Tailwind CSS, Vite, Angular.
 - 🎯 **Focus:** Micro-frontends, Data Virtualization (TanStack), and Real-time State Management.
